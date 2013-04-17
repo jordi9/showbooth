@@ -1,4 +1,4 @@
 Showbooth
 =========
 
-Habemus domini: showbooth.co
+Habemus domini: [showbooth.co](http://showbooth.co)
